@@ -45,7 +45,7 @@ A simple web-based attendance system that allows employees to check in and out t
 
 5. **Access the system**
    - Open your web browser and navigate to the project URL
-   - Example: `http://localhost/attendance-system/`
+   - Example: `http://localhost/attent/`
 
 ## Default Login Credentials
 
@@ -103,3 +103,4 @@ attendance-system/
 
 ## License
 This project is open-source and available for use by SSS IT WORLD. 
+> present by **Xexis** 💼 , and developed by bappi
